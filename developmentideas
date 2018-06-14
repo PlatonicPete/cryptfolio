@@ -1,0 +1,25 @@
+Features required of this app:
+
+1. Display current holdings on different exchanges in visual and numerical format
+2. Display trader performance parameters
+3. Display trader value growth
+4. Display trade history, visually and numerically
+5. Display portfolio and holdings history
+
+Hypothetical fantasy ideas:
+output pine scripts that can be pasted into TradingView to display trade history
+
+So we need:
+ a. Connections to exchange APIs
+ b. Trade history fetching
+ c. Account value fetching
+ d. Analysis and processing of fetched data
+ e. Storage and output of fetched and processed data
+ 
+
+A. Connections to exchange APIs
+
+Use the Requests module to connect to HTTP Apis of exchanges
+
+B.
+
